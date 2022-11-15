@@ -18,6 +18,8 @@
   },
   "rules": {
     "linebreak-style": ["error", "windows"],
-    "no-console": "off"
+    "no-console": "off",
+    "implicit-arrow-linebreak": "off",
+    "function-paren-newline": "off"
   }
 }
